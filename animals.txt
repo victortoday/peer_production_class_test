@@ -1,4 +1,4 @@
-lion      brown	
-tiger     yellow
-leopard   spotted
-turtle    green
+lion      brown	roar
+tiger     yellow sleep
+leopard   spotted climb
+turtle    green crawl
